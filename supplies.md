@@ -4,12 +4,11 @@
 * sunscreen
 * 2 gallons water
 * drinks
-* Camp chari
+* camp chair
 * bedding
 * flashlights
 
 ## John
-* Table
 * 50' coax
 * cooler
 * dual burnder stover
@@ -26,6 +25,7 @@
 * steak knives
 
 ## Jim
+* Table
 * small bungies and parachut cord
 * 50' coax
 * single burner stove
