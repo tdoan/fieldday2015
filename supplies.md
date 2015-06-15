@@ -1,5 +1,8 @@
 # Supply Lists
 
+# NEEDED
+* tent stakes
+
 ## Everyone
 * sunscreen
 * 2 gallons water
@@ -23,6 +26,16 @@
 * first aid kit
 * grill utencils
 * steak knives
+* frying pan with fake non-stick coating
+* one lid for same
+* bin of utensils
+* good sized "Grill-to-go"
+* mid sized one-burner plus one griddle coleman stove
+* three bottles of propane
+* 2 fire extinguishers
+* plastic mallet
+* dining screen tent
+* tarp
 
 ## Jim
 * Table
