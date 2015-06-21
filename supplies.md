@@ -2,6 +2,7 @@
 
 # NEEDED
 * tent stakes
+* salt and pepper
 
 ## Everyone
 * sunscreen
@@ -19,7 +20,6 @@
 * cheese
 * mustard
 * ketchup
-* salt and pepper
 * bread
 * pink tape
 * ice
