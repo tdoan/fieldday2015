@@ -2,7 +2,6 @@
 
 # NEEDED
 * tent stakes
-* salt and pepper
 
 ## Everyone
 * sunscreen
@@ -49,8 +48,41 @@
 ## Chris
 
 ## Tony
+* salt and pepper
+* plates
+* utensils
+* napkins
+* sleeping bag
+* air mattress
 * cooler
 * paper towel
 * paper plates
 * TP
-
+* tent stakes
+* tripod
+* coax
+* battery
+* Icom IC706
+* IC706 - LDG Interconnect Cable
+* IC706 Mic
+* IC706 Power  Cable
+* pl-259 patch cord
+* power octopus
+* LDG Ant Tuner
+* LDG Ant Tuner power cord 
+* Diamond SX-200
+* Antenna Mast Guys & Stakes
+* Large Hose Clamp
+* Hammer
+* ARRL Band Plan
+* Chairs
+* Table
+* AR-270 Antenna
+* TV Mast - 5 ft Section
+* paper towels, toilet paper
+* Shovel
+* 80 - 40 wire Antenna & BALUN
+* A-frame x 2
+* Assorted Tools
+* Nut Drivers
+* Icom IC-2100
